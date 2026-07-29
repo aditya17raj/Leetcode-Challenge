@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
