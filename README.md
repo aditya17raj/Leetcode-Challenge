@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -17,15 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -34,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
