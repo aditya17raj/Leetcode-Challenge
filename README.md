@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
@@ -46,6 +48,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
