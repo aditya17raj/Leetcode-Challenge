@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/3310-remove-methods-from-project) |
 ## Matrix
