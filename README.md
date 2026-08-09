@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
+## Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
