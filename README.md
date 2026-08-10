@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 ## Math
 |  |
@@ -80,9 +82,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
