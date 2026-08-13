@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
+| [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1020-number-of-enclaves) |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
