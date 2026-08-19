@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
