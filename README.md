@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
