@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -162,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
