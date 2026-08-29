@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
