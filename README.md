@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0319-bulb-switcher) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -174,8 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0231-power-of-two) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0319-bulb-switcher) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
