@@ -86,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0319-bulb-switcher) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
