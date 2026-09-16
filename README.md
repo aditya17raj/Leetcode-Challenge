@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0231-power-of-two) |
 ## Brainteaser
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
