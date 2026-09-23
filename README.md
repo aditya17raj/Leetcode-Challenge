@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 ## Math
