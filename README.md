@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
