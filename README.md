@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
