@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
@@ -270,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/1143-longest-common-subsequence) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
