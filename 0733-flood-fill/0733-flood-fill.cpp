@@ -1,33 +1,36 @@
 class Solution {
+private:
+    vector<int> delRow = {0,-1,0,1};
+    vector<int> delCol = {1,0,-1,0};
 public:
-    void dfs(int sr, int sc, vector<vector<int>>& image, vector<vector<int>> &ans, 
-            int inicolor, int color, vector<int> delrow, vector<int> delcol)
-    {
-        ans[sr][sc] = color;
+    bool valid(int r, int c, int n, int m){
+        if(r>=0 && r<n && c>=0 && c<m)
+            return true;
+        else
+            return false;
+    }
+
+    void dfs(int row, int col, int color, int iniClr, vector<vector<int>>&image, vector<vector<int>>&ans, int n, int m){
+
+        ans[row][col] = color;
+        
+        for(int i=0; i<4; i++){
+            int nrow = row+delRow[i];
+            int ncol = col+delCol[i];
+
+            if(valid(nrow,ncol,n,m) && image[nrow][ncol]==iniClr && ans[nrow][ncol]!=color){
+                dfs(nrow,ncol,color,iniClr,image,ans,n,m);
+            }
+        }
+    }
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color){
+        int iniClr = image[sr][sc];
         int n=image.size();
         int m=image[0].size();
 
-        for(int i=0; i<4; i++){
-            int nrow = sr+delrow[i];
-            int ncol = sc+delcol[i];
-
-            if( (nrow >= 0 && nrow<n) && (ncol>=0 && ncol<m) && image[nrow][ncol] == inicolor &&
-                ans[nrow][ncol] != color )
-            {
-                dfs(nrow, ncol, image, ans, inicolor, color, delrow, delcol);
-            }
-
-        }
-
-    }
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int iniColor = image[sr][sc];
         vector<vector<int>> ans = image;
-        
-        vector<int> delrow = {0,-1,0,1};
-        vector<int> delcol = {-1,0,1,0};
 
-        dfs(sr, sc, image, ans, iniColor, color, delrow, delcol);
+        dfs(sr, sc, color, iniClr, image, ans, n, m);
 
         return ans;
     }
