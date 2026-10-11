@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0231-power-of-two) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0516-longest-palindromic-subsequence) |
