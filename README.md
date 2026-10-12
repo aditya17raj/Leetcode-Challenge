@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0078-subsets) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0785-is-graph-bipartite) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aditya17raj/Leetcode-Challenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
